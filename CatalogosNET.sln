@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICatalogo", "..\APICatalogo2\APICatalogo.csproj", "{8439899F-32DC-4AFF-8E98-3678CBB8B07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICatalogoTest", "..\CatalogoAPI\APICatalogoTest\APICatalogoTest.csproj", "{BFF8CA54-2B21-437F-AE70-3646F6AB7547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8439899F-32DC-4AFF-8E98-3678CBB8B07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8439899F-32DC-4AFF-8E98-3678CBB8B07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8439899F-32DC-4AFF-8E98-3678CBB8B07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8439899F-32DC-4AFF-8E98-3678CBB8B07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF8CA54-2B21-437F-AE70-3646F6AB7547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF8CA54-2B21-437F-AE70-3646F6AB7547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF8CA54-2B21-437F-AE70-3646F6AB7547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF8CA54-2B21-437F-AE70-3646F6AB7547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
